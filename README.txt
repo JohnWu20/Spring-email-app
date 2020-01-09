@@ -1,0 +1,1 @@
+You can import the file to your IDE by the maven file, and run it in the springemailexampleapplication.
